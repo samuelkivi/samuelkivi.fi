@@ -1,0 +1,126 @@
+.Home {
+
+    height: 100vh;
+    width: 100%;
+    background-color: #21D4FD;
+    background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+    text-align: center;
+}
+
+.TextHome {
+    padding-top: 40vh !important;
+    color: white;
+    font-size: 2em;
+
+}
+
+.Name{
+    display: inline;
+    color: palegreen;
+}
+
+.Breadcrumbs{
+    text-align: center;
+    background-image: linear-gradient(90deg, #9549FE 0%, #B721FF 100%);
+    
+}
+
+.MuiSvgIcon-root {
+    fill: white !important;
+    height: 4em !important;
+    width: auto !important;
+    margin-top: 30vh !important;
+    transition: transform .1s;
+    cursor: pointer;
+}
+.MuiSvgIcon-root:hover {
+    transform: scale(1.5);
+}
+
+
+.Aboutme {
+    padding-top: 5%;
+    height: 100vh;
+    width: 100%;
+    background-color: #09add6;
+    background-image: linear-gradient(-19deg, #B721FF 0%,  #21D4FD 100%);
+    text-align: center;
+}
+
+.TextAboutme {
+    padding-top: 40vh !important;
+    color: white;
+    font-size: 2em;
+
+}
+
+.Headers {
+    padding-top: 1%;
+    margin-left: 2% !important;
+    font-size: 2.5rem;
+    color: white;
+}
+
+.Texts {
+    font-size: 1.5rem;
+    color: white;
+    text-align: left;
+    margin-top: 2% !important;
+    margin-left: 8% !important;
+    
+}
+.Texts li {
+    margin-top: 2% !important;
+}
+
+.Picture {
+    float: right;
+    height: 20vh;
+    margin-top: 2% !important;
+    margin-right: 8% !important;
+    border: 10px solid #ddd;
+    border-radius: 10px;
+    padding: 5px;
+}
+.Item1 {
+    padding-top: 2%;
+    background: rgba(0,0,0,0.1);
+    height: 40vh;
+    border-radius: 8px;
+    width: 100%;
+    float: right;
+}
+
+.Contacts {
+    height: 100vh;
+    width: 100%;
+    background-color: #09add6;
+    background-image: linear-gradient(19deg, #21D4FD 0%,  #B721FF 100%);
+    text-align: center;
+}
+
+.TextContacts {
+    padding-top: 10vh !important;
+    color: white;
+    font-size: 2em;
+
+}
+
+.Item2 {
+    height: 100%; 
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.github{
+    padding-top: 20vh !important;
+    padding-right: 20px;
+    width: 20vw;
+  }
+  
+.maillogo{
+    padding-top: 20vh !important;
+    padding-left: 20px;
+    width: 20vw;
+
+}
